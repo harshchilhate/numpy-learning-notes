@@ -14,6 +14,12 @@ The notebooks focus on understanding how NumPy arrays work, how they differ from
 * Vectors, matrices, and higher-dimensional arrays
 * Array properties (`dtype`, `shape`, `size`, `ndim`)
 * Array transformations (`reshape`, `flatten`, `ravel`, `transpose`)
+* Indexing and slicing
+* Sorting arrays
+* Boolean filtering and masking
+* Fancy indexing and `np.where()`
+* Adding and removing data (`concatenate`, `vstack`, `hstack`, `delete`)
+* Shape comparison
 * Performance comparison between Python lists and NumPy operations
 
 ---
@@ -21,16 +27,16 @@ The notebooks focus on understanding how NumPy arrays work, how they differ from
 ## Repository Structure
 
 ```
-
 numpy-learning-notes
 │
 ├── notebooks
-│   └── Numpy - Array and Basics.ipynb
+│   |-- Numpy - Array and Basics.ipynb
+|   |-- Numpy - Operations.ipynb
 │
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 
 ---
 
