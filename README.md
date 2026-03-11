@@ -36,8 +36,8 @@ numpy-learning-notes
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-```
 
+```
 ---
 
 ## Requirements
