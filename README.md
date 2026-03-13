@@ -4,6 +4,17 @@ This repository contains my structured learning notes and experiments while stud
 
 The notebooks focus on understanding how NumPy arrays work, how they differ from Python lists, and how to efficiently perform numerical operations using vectorized computations.
 
+
+## Learning Resource
+
+This notebook was created while learning NumPy concepts from the following tutorial:
+
+* **NumPy One Shot Tutorial** by Chai aur Code
+  https://youtu.be/x7ULDYs4X84
+
+The code and examples are explained in the tutorial, with additional comments and structured notes added for learning purposes.
+
+
 ---
 
 ## Topics Covered
@@ -21,6 +32,13 @@ The notebooks focus on understanding how NumPy arrays work, how they differ from
 * Adding and removing data (`concatenate`, `vstack`, `hstack`, `delete`)
 * Shape comparison
 * Performance comparison between Python lists and NumPy operations
+* Business dataset example
+* Sales analysis using NumPy
+* Aggregation operations (`sum`, `min`, `max`, `mean`)
+* Cumulative operations (`cumsum`)
+* Visualization using Matplotlib
+* Vector operations (`dot product`, `norm`, `angle`)
+* Vectorized operations using `np.vectorize()`
 
 ---
 
@@ -32,6 +50,7 @@ numpy-learning-notes
 ├── notebooks
 │   |-- Numpy - Array and Basics.ipynb
 |   |-- Numpy - Operations.ipynb
+|   └-- Numpy - Advanced Operations.ipynb
 │
 ├── requirements.txt
 ├── .gitignore
